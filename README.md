@@ -1,4 +1,4 @@
-<h1>Helpdesk portal for college campus using Django.</h1>
+<h1>Helpdesk portal using Django.</h1>
 <br/>
 <p>
     <img src="a.png" width="800" height="300" />
