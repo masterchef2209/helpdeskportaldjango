@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6b47b9d-617b-4388-abb8-64301daccec0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_django/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_django/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_django/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_django/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_django/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/tickets/ticket_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tickets/ticket_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/tickets/ticket_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tickets/ticket_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickets/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickets/enums.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/enums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickets/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tickets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tickets/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dJuF2TX2c6hDgC2AkcE1tor0lG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1119" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1592175040191">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1119" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1592175040191" />
+  </component>
+</project>
