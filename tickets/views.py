@@ -41,7 +41,7 @@ class TicketUpdateView(UpdateView):
 
     def dispatch(self, request, *args, **kwargs):
         self.object = self.get_object()
-        if not self.object.public and request.user != self.object.created_by:
+        if not self.object.public or request.user != self.object.created_by:
             raise PermissionDenied
         return super().dispatch(request, *args, **kwargs)
 
